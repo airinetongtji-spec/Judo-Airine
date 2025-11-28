@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Undangan Pernikahan Rin & Judo</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f4f5f2;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    .hero {
+      text-align: center;
+      padding: 60px 20px;
+      background: linear-gradient(135deg, #c8d5c0, #e7e8d1);
+      color: #3a4a3f;
+    }
+    .hero h1 {
+      font-size: 32px;
+      margin: 0;
+      letter-spacing: 1px;
+    }
+    .hero p {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+    .section {
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .title {
+      font-size: 24px;
+      margin-bottom: 10px;
+      color: #3a4a3f;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      max-width: 500px;
+      margin: 0 auto 20px auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    .gold {
+      color: #c2a752;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="hero">
+    <h1>Judo Yustanto Kahono & Maria Airine Yunita</h1>
+    <p class="gold">"Apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia." (Mrk 10:9)</p>
+    <p>Dengan penuh syukur, kami mengundang Anda untuk hadir dalam sakramen pernikahan kami.</p>
+  </div>
+
+  <div class="section">
+    <div class="title">Pemberkatan Nikah</div>
+    <div class="card">
+      <p><strong>Sabtu, 17 Januari 2026</strong></p>
+      <p>Pukul <strong>10.00 WIB</strong></p>
+      <p>Gereja Katolik St. Ignatius</p>
+    </div>
+
+    <div class="title">Resepsi Pernikahan</div>
+    <div class="card">
+      <p><strong>Sabtu, 17 Januari 2026</strong></p>
+      <p>Pukul <strong>18.00 WIB</strong></p>
+      <p>Semanggi Ballroom, Hotel Grand Artos</p>
+    </div>
+  </div>
+
+</body>
+</html>
